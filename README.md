@@ -15,20 +15,20 @@ WAGC is an Android utility for advanced WhatsApp group management, discovery, cl
 ### FREE Edition
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23.jpeg" alt="WAGC FREE dashboard" width="320">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(4).jpeg" alt="WAGC FREE" width="320">
+  <img src="screenshots/wagc-free-dashboard.jpeg" alt="WAGC FREE dashboard" width="320">
+  <img src="screenshots/wagc-free-icon.jpeg" alt="WAGC FREE icon" width="320">
 </p>
 
 ### PRO Edition
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(1).jpeg" alt="WAGC PRO dashboard" width="300">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(2).jpeg" alt="WAGC PRO management" width="300">
+  <img src="screenshots/wagc-pro-dashboard.jpeg" alt="WAGC PRO dashboard" width="300">
+  <img src="screenshots/wagc-pro-management.jpeg" alt="WAGC PRO management" width="300">
 </p>
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(3).jpeg" alt="WAGC PRO About and Copyright" width="300">
-  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(5).jpeg" alt="WAGC PRO" width="300">
+  <img src="screenshots/wagc-pro-about.jpeg" alt="WAGC PRO About and Copyright" width="300">
+  <img src="screenshots/wagc-pro-icon.jpeg" alt="WAGC PRO icon" width="300">
 </p>
 
 The screenshots above show the official WAGC V2.5.9 FREE and PRO interfaces. PRO functionality requires a valid WAGC PRO license.
