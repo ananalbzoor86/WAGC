@@ -1,0 +1,59 @@
+name: "Bug Report | بلاغ مشكلة"
+description: "Report a reproducible WAGC problem | الإبلاغ عن مشكلة قابلة لإعادة التجربة"
+title: "[BUG] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve WAGC. Do not post passwords, private messages, databases, license secrets or other sensitive data.
+        شكراً لمساعدتك في تحسين WAGC. لا تنشر كلمات مرور أو رسائل خاصة أو قواعد بيانات أو أسرار تراخيص أو أي بيانات حساسة.
+  - type: dropdown
+    id: edition
+    attributes:
+      label: "Edition | النسخة"
+      options:
+        - FREE
+        - PRO
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "WAGC Version | إصدار WAGC"
+      placeholder: "2.5.9"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: "Device & Android | الجهاز وإصدار Android"
+      placeholder: "Samsung / Android 16"
+    validations:
+      required: true
+  - type: input
+    id: root
+    attributes:
+      label: "Root Solution | نظام الروت"
+      placeholder: "KernelSU / Magisk + version"
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem | المشكلة"
+      description: "Describe what happened. | اشرح ما الذي حدث."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Reproduction Steps | خطوات إعادة المشكلة"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected Behavior | السلوك المتوقع"
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Sanitized Logs | السجلات بعد إزالة البيانات الحساسة"
+      render: shell
