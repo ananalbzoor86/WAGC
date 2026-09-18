@@ -1,0 +1,37 @@
+name: "Feature Request | اقتراح ميزة"
+description: "Suggest an improvement for WAGC | اقترح تطويراً أو ميزة جديدة لـ WAGC"
+title: "[FEATURE] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the use case and the result you would like to see.
+        اشرح الاستخدام المطلوب والنتيجة التي ترغب برؤيتها.
+  - type: dropdown
+    id: edition
+    attributes:
+      label: "Target Edition | النسخة المستهدفة"
+      options:
+        - FREE
+        - PRO
+        - Both / كلاهما
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: "Feature | الميزة"
+      description: "What would you like WAGC to add or improve? | ماذا تريد إضافته أو تحسينه؟"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "Use Case | سبب الحاجة"
+      description: "Explain how this would help. | اشرح كيف ستفيد هذه الميزة."
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Additional Notes | ملاحظات إضافية"
