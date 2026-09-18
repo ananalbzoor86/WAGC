@@ -31,6 +31,12 @@ WAGC is an Android utility for advanced WhatsApp group management, discovery, cl
   <img src="screenshots/wagc-pro-icon.jpeg" alt="WAGC PRO icon" width="300">
 </p>
 
+### Additional Preview
+
+<p align="center">
+  <img src="screenshots/wagc-additional-preview.jpeg" alt="WAGC additional application preview" width="360">
+</p>
+
 The screenshots above show the official WAGC V2.5.9 FREE and PRO interfaces. PRO functionality requires a valid WAGC PRO license.
 
 ## Latest Release
