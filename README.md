@@ -10,6 +10,29 @@
 
 WAGC is an Android utility for advanced WhatsApp group management, discovery, cleanup and maintenance on rooted devices. This public repository is dedicated to official distribution, documentation and release downloads. The application source code is maintained privately and is not distributed from this repository.
 
+## App Preview
+
+### FREE Edition
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23.jpeg" alt="WAGC FREE dashboard" width="320">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(4).jpeg" alt="WAGC FREE" width="320">
+</p>
+
+### PRO Edition
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(1).jpeg" alt="WAGC PRO dashboard" width="300">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(2).jpeg" alt="WAGC PRO management" width="300">
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(3).jpeg" alt="WAGC PRO About and Copyright" width="300">
+  <img src="WhatsApp%20Image%202026-09-18%20at%2018.35.23%20(5).jpeg" alt="WAGC PRO" width="300">
+</p>
+
+The screenshots above show the official WAGC V2.5.9 FREE and PRO interfaces. PRO functionality requires a valid WAGC PRO license.
+
 ## Latest Release
 
 **WAGC V2.5.9 - FREE & PRO**
@@ -98,11 +121,19 @@ The PRO APK may be downloaded publicly, but PRO functionality requires a valid W
 - Do not install modified or repackaged builds from untrusted sources.
 - Private signing material, credentials and licensing secrets are not distributed through this public repository.
 
+See [SECURITY.md](SECURITY.md) for the security policy and vulnerability reporting guidance.
+
 ## Source Code
 
 This repository is a **public distribution repository**. The WAGC application source code, private development history, build internals and licensing implementation are maintained separately and are not distributed here.
 
 The automatically generated `Source code (zip)` and `Source code (tar.gz)` files displayed by GitHub Releases contain only the public contents associated with the public release tag. They are not archives of the private WAGC application source repository.
+
+## Documentation
+
+- [Changelog](CHANGELOG.md)
+- [Security Policy](SECURITY.md)
+- [Distribution Terms](LICENSE.md)
 
 ## Disclaimer
 
