@@ -91,6 +91,43 @@ Feature availability may differ between FREE and PRO editions.
 
 ---
 
+## WAGC PRO Plans & Payment
+
+### PRO Subscription Prices
+
+| Plan | Price |
+|---|---:|
+| **Monthly** | **$3 USD** |
+| **3 Months** | **$9 USD** |
+| **6 Months** | **$18 USD** |
+| **Yearly** | **$36 USD** |
+| **Lifetime** | **$40 USD** |
+
+### Payment Method
+
+**Currency:** USDT  
+**Network:** TRON (TRC20)  
+**Wallet:** Binance
+
+**USDT TRC20 Payment Address:**
+
+```text
+TDEubr9dXzgwYt3g5euyNcopURRm3KAeEZ
+```
+
+> **Important:** Send USDT only through the **TRON (TRC20)** network. Always verify the complete wallet address and selected network before confirming the transfer. Sending through a different network may result in loss of funds.
+
+### Payment & PRO License Activation
+
+For payment confirmation and WAGC PRO license activation, contact via WhatsApp:
+
+- **Jawwal:** [+970 59 947 5210](https://wa.me/970599475210)
+- **Ooredoo:** [+970 56 947 5210](https://wa.me/970569475210)
+
+After payment, contact one of the WhatsApp numbers above to continue the PRO license activation process.
+
+---
+
 ## Download WAGC V2.5.9
 
 | Edition | Official APK | SHA-256 |
